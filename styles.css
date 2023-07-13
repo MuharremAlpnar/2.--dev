@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+}
+main{
+  background-color: #eee;
+  padding: 25px 15px;
+}
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+#img-div{
+  background-color: white;
+  padding: 10px;
+}
